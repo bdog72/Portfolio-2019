@@ -1,0 +1,19 @@
+@media (min-width: 992px) {
+  .header-name {
+    font-size: 80px !important;
+  }
+}
+
+@media (min-width: 414px) {
+  .header-name {
+    padding-bottom: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  .contact {
+    i {
+      margin: 20px;
+    }
+  }
+}
